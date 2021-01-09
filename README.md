@@ -1,1 +1,4 @@
-# aos_custom_text_view
+# CustomTextView
+
+
+![Image of Sample](./sample/sample.jpeg)
